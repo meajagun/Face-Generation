@@ -13,3 +13,9 @@ This project describes how to define and train a DCGAN using a dataset of faces 
 - Setting the Optimizers
 - Training the Network
 - Generator samples images of new Faces from the Training
+
+### Sample of Images from Preprocessed Dataset
+![](preprocessed_dataset.png)
+
+### Generated New Faces from Project
+![](generated_faces.png)
