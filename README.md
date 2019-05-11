@@ -1,6 +1,7 @@
 # Face-Generation
 Project Face Generation using DCGAN to generate new realistic face images
 This project describes how to define and train a DCGAN using a dataset of faces to generate realistic face images using a generator network.
+Steps involved in the project and code can be viewed on the file: [dlnd_face_generation.ipynb](https://github.com/meajagun/Face-Generation/blob/master/dlnd_face_generation.ipynb)
 
 ## Steps in the project involve the following:
 - Getting the data
