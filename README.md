@@ -15,7 +15,9 @@ This project describes how to define and train a DCGAN using a dataset of faces 
 - Generator samples images of new Faces from the Training
 
 ### Sample of Images from Preprocessed Dataset
-![](preprocessed_dataset.png)
+![](https://user-images.githubusercontent.com/984840/57575596-4cb4e600-7445-11e9-87ee-387206c48c89.png)
+
 
 ### Generated New Faces from Project
-![](generated_faces.png)
+![](https://user-images.githubusercontent.com/984840/57575601-681ff100-7445-11e9-9deb-9ec81a406619.png)
+
